@@ -1,0 +1,6 @@
+@media (prefers-reduced-motion: no-preference) {
+    button {
+      /* `vibrate` keyframes are defined elsewhere */
+      animation: vibrate 0.3s linear infinite both;
+    }
+  }
